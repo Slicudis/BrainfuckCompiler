@@ -1,2 +1,2 @@
-# BrainfuckCompiler
-Can compile brainfuck into C or ELF
+# GNU Brain Fucker
+Use MAKE to generate the compilñer and execute ```./gbf --help``` for more information.
