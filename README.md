@@ -1,2 +1,2 @@
 # GNU Brain Fucker
-Use MAKE to generate the compilñer and execute ```./gbf --help``` for more information.
+Use MAKE to generate the compiler and execute ```./gbf --help``` for more information.
